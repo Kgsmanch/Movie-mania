@@ -1,0 +1,23 @@
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: rgb(0, 0, 0);
+}
+
+.icons-footer{
+    text-align: center;
+}
+
+.giticon{
+    font-size: 50px;
+}
+.emailicon{
+    padding-left: 15px;
+    font-size: 50px;
+}
+.linkedinicon{
+    font-size: 50px;
+    padding-left: 15px;
+}
